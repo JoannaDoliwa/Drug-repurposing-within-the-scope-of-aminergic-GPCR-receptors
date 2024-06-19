@@ -1,0 +1,272 @@
+NAME,INDICATION,TARGET,TARGET LEVEL,CLASS,FAMILY,STATUS,PHASE,CLINICAL STATUS,YEAR OF,DRUG TYPE,MECHANISM OF ACTION
+agomelatine,Anti-Depressant,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+agomelatine,Anti-Depressant,5ht2b_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+almotriptan,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2001,small molecule,agonist
+almotriptan,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2001,small molecule,agonist
+alverine,Antispasmodics,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2014,small molecule,antagonist
+amitriptyline,Analgesics,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1961,small molecule,antagonist
+aripiprazole,Schizophrenia,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2002,small molecule,partial agonist
+aripiprazole,Psychosis,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2015,small molecule,partial agonist
+aripiprazole,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2002,small molecule,partial agonist
+aripiprazole,Psychosis,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2015,small molecule,partial agonist
+asenapine,Schizophrenia,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+asenapine,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+asenapine,Schizophrenia,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+asenapine,Schizophrenia,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+asenapine,Schizophrenia,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+asenapine,Schizophrenia,5ht5a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+asenapine,Schizophrenia,5ht7r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+asenapine,Schizophrenia,5ht2b_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+buspirone,Anti-Anxiety,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1986,small molecule,partial agonist
+chlorpromazine,Psychosis,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1957,small molecule,antagonist
+chlorprothixene,Schizophrenia,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1967,small molecule,antagonist
+chlorprothixene,Schizophrenia,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1967,small molecule,antagonist
+chlorprothixene,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1967,small molecule,antagonist
+clozapine,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1989,small molecule,antagonist
+clozapine,Schizophrenia,5ht1a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1989,small molecule,antagonist
+clozapine,Schizophrenia,5ht2c_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1989,small molecule,antagonist
+cyproheptadine,Anti-Allergic ; Appetite Stimulant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1961,small molecule,antagonist
+doxepin,Hypnotics And Sedatives,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1969,small molecule,antagonist
+doxepin,Hypnotics And Sedatives,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1969,small molecule,antagonist
+doxepin,Hypnotics And Sedatives,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1969,small molecule,antagonist
+eletriptan,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2002,small molecule,agonist
+eletriptan,Anti-Migraine,5ht1f_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2002,small molecule,agonist
+eletriptan,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2002,small molecule,agonist
+ergoloid,Cardiovascular Disease,5ht1a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1953,small molecule,agonist
+ergoloid,Cardiovascular Disease,5ht1b_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1953,small molecule,agonist
+ergotamine,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1960,small molecule,agonist
+ergotamine,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1960,small molecule,agonist
+fluoxetine,Autism,5ht2b_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1987,small molecule,antagonist
+flupentixol,Antipsychotic,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1965,small molecule,antagonist
+frovatriptan,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2001,small molecule,agonist
+frovatriptan,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2001,small molecule,agonist
+haloperidol,Conduct Disorder,5ht2a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1967,small molecule,antagonist
+haloperidol,Psychosis,5ht2a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1986,small molecule,antagonist
+levomepromazine,Schizophrenia,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1982,small molecule,antagonist
+loxapine,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1975,small molecule,antagonist
+loxapine,Psychosis,5ht2c_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1975,small molecule,antagonist
+lurasidone,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2010,small molecule,antagonist
+lurasidone,Schizophrenia,5ht1a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2010,small molecule,antagonist
+lurasidone,Schizophrenia,5ht7r_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2010,small molecule,antagonist
+methysergide,Anti-Migraine,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1962,small molecule,antagonist
+methysergide,Anti-Migraine S; Vasoconstrictor,5ht7r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1962,small molecule,antagonist
+methysergide,Anti-Migraine S; Vasoconstrictor,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1962,small molecule,antagonist
+methysergide,Anti-Migraine S; Vasoconstrictor,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1962,small molecule,antagonist
+methysergide,Anti-Migraine S; Vasoconstrictor,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1962,small molecule,antagonist
+metoclopramide,Pregnancy,5ht4r_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1979,small molecule,antagonist
+mianserin,Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+mianserin,Anti-Depressant,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+mirtazapine,Unipolar Depression,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+mirtazapine,Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+naratriptan,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1998,small molecule,agonist
+naratriptan,Anti-Migraine,5ht1f_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1998,small molecule,agonist
+naratriptan,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1998,small molecule,agonist
+naratriptan,Anti-Migraine,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1998,small molecule,agonist
+nefazodone,Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1994,small molecule,antagonist
+nefazodone,Unipolar Depression,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1994,small molecule,antagonist
+olanzapine,Anti-Depressant,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Schizophrenia,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Anti-Depressant,5ht1a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Anti-Depressant,5ht1b_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Anti-Depressant,5ht1d_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Anti-Depressant,5ht1e_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Anti-Depressant,5ht6r_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Anti-Depressant,5ht7r_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Schizophrenia,5ht1a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Schizophrenia,5ht1b_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Schizophrenia,5ht1d_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Schizophrenia,5ht1e_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Schizophrenia,5ht6r_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+olanzapine,Schizophrenia,5ht7r_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1996,small molecule,antagonist
+paliperidone,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2006,small molecule,antagonist
+pipotiazine,Antipsychotic,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1980,small molecule,antagonist
+pipotiazine,Antipsychotic,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1980,small molecule,antagonist
+promazine,Antiemetics; Antipsychotic,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1956,small molecule,antagonist
+promazine,Antiemetics; Antipsychotic,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1956,small molecule,antagonist
+prucalopride,Motilitant,5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,agonist
+quetiapine,Antipsychotic ; Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1997,small molecule,antagonist
+quetiapine,Antipsychotic ; Anti-Depressant,5ht2c_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1997,small molecule,antagonist
+risperidone,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1993,small molecule,antagonist
+risperidone,Schizophrenia,5ht2c_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1993,small molecule,antagonist
+rizatriptan,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1998,small molecule,agonist
+rizatriptan,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1998,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2008,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1992,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1f_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2008,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1f_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1992,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2008,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1992,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2008,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1992,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,completed,-,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1f_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,completed,-,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,completed,-,small molecule,agonist
+sumatriptan,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,completed,-,small molecule,agonist
+thioridazine,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1962,small molecule,antagonist
+thioridazine,Psychosis,5ht2c_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1962,small molecule,antagonist
+tramadol,Analgesics,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1995,small molecule,agonist
+tramadol,Analgesics,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,agonist
+tramadol,Analgesics,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,recruiting,-,small molecule,agonist
+trazodone,Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1981,small molecule,partial agonist
+trazodone,Anti-Depressant,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1981,small molecule,antagonist
+trazodone,Anti-Depressant,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1981,small molecule,antagonist
+trifluoperazine,Psychosis,5ht2a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1959,small molecule,antagonist
+trifluoperazine,Psychosis,5ht2c_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1959,small molecule,antagonist
+trimipramine,Unipolar Depression,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1979,small molecule,antagonist
+trimipramine,Unipolar Depression,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1979,small molecule,antagonist
+vortioxetine,Anti-Depressant,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2013,small molecule,agonist
+vortioxetine,Anti-Depressant,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2013,small molecule,agonist
+vortioxetine,Anti-Depressant,5ht7r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2013,small molecule,agonist
+ziprasidone,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2001,small molecule,antagonist
+ziprasidone,Schizophrenia,5ht2c_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2001,small molecule,antagonist
+zolmitriptan,Anti-Migraine,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1997,small molecule,agonist
+zolmitriptan,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1997,small molecule,agonist
+zolmitriptan,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1997,small molecule,agonist
+zolmitriptan,Anti-Migraine,5ht1f_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1997,small molecule,agonist
+zolmitriptan,Anti-Migraine,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,completed,-,small molecule,agonist
+zolmitriptan,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,completed,-,small molecule,agonist
+zolmitriptan,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,completed,-,small molecule,agonist
+zolmitriptan,Anti-Migraine,5ht1f_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,completed,-,small molecule,agonist
+acepromazine,Antipsychotic,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,-,small molecule,antagonist
+acepromazine,Antipsychotic,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,-,small molecule,antagonist
+acp-104,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,inverse agonist
+am-831,Antipsychotic ; Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,discontinued,-,small molecule,antagonist
+am1030,Anti-Inflammatory ; Atopic Dermatitis,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,antagonist
+amap102,Anti-Inflammatory ; Dmard,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,antagonist
+amap102,Anti-Inflammatory ; Dmard,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,antagonist
+apd125,Insomnia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,agonist
+apd125,Dementia With Lewy Bodies,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,recruiting,-,small molecule,agonist
+apd791,Antithrombotic,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,completed,-,small molecule,agonist
+athx-105,Anti-Obesity,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,agonist
+ati-7505,Parasympathomimetic,5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,agonist
+ati-9242,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,ongoing,-,small molecule,not available
+avn-101,Alzheimer'S Disease,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,completed,-,small molecule,antagonist
+avn-211,Schizophrenia,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,unknown,-,small molecule,antagonist
+avn-322,Alzheimer'S Disease,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,discontinued,-,small molecule,antagonist
+avn-397,Alzheimer'S Disease,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,unknown
+bf-1,Anti-Migraine,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,ongoing,-,small molecule,antagonist
+bifeprunox,Antipsychotic ; Antiparkinson,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,partial agonist
+bifeprunox,Antipsychotic ; Antiparkinson,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,agonist
+bifeprunox,Antipsychotic ; Antiparkinson,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,agonist
+bifeprunox,Antipsychotic ; Antiparkinson,5ht7r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,agonist
+bl-1020,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,terminated,-,small molecule,agonist
+brexpiprazole,Anti-Depressant,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2015,small molecule,partial agonist
+brexpiprazole,Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2015,small molecule,partial agonist
+brexpiprazole,Anti-Depressant,5ht7r_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2015,small molecule,partial agonist
+bupropion/trazodone,Anti-Depressant; For Hypoactive Sexual Desire Disorder And Female Sexual Dysfunction,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,partial agonist
+bupropion/trazodone,Anti-Depressant; For Hypoactive Sexual Desire Disorder And Female Sexual Dysfunction,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,antagonist
+bupropion/trazodone,Anti-Depressant; For Hypoactive Sexual Desire Disorder And Female Sexual Dysfunction,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,agonist
+butriptyline,Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1974,small molecule,antagonist
+bvt.28949,Antiglaucomic,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,unknown,-,small molecule,antagonist
+captodiame,Anxiolytic,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,-,small molecule,antagonist
+cerlapirdine,Alzheimer'S Disease,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,antagonist
+cinitapride,Gastrointestinal Disorders,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,-,small molecule,antagonist
+cinitapride,Gastrointestinal Disorders,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,-,small molecule,agonist
+cis-uca eye drops,For Ocular Surface Inflammation,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,agonist
+cisapride,Parasympathomimetics,5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1993,small molecule,agonist
+cyclobenzaprine,Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1977,small molecule,antagonist
+cyclobenzaprine,Muscle Relaxants,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1977,small molecule,antagonist
+cyclobenzaprine,Spasticity,5ht2c_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1977,small molecule,antagonist
+cyclobenzaprine,"Fibromyalgia, Ptsd",5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,recruiting,-,small molecule,antagonist
+dihydroergotamine,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1997,small molecule,agonist
+dihydroergotamine,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1997,small molecule,agonist
+droperidol,Psychosis,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1970,small molecule,antagonist
+eltoprazine,Dyskinesias,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,ongoing,-,small molecule,agonist
+eltoprazine,Dyskinesias,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,ongoing,-,small molecule,agonist
+eplivanserine,Insomnia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,inverse agonist
+eplivanserine,Insomnia,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,inverse agonist
+esmirtazapine,Insomnia; Menopausal Symptoms,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,antagonist
+esmirtazapine,Insomnia,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,antagonist
+fenfluramine,Epilepsy; Dravet'S Syndrome,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,recruiting,-,small molecule,agonist
+fenfluramine,Epilepsy; Dravet'S Syndrome,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,recruiting,-,small molecule,agonist
+flibanserin,Sexual Dysfunction,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2015,small molecule,agonist
+flibanserin,Sexual Dysfunction,5ht2a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2015,small molecule,antagonist
+gepirone,Anti-Depressant,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,completed,-,small molecule,partial agonist
+gsk163090,Unipolar Depression,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,antagonist
+gsk163090,Unipolar Depression,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,antagonist
+gsk163090,Unipolar Depression,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,antagonist
+idalopirdine,Alzheimer'S Disease,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,recruiting,-,small molecule,antagonist
+iferanserin,Antihemorrhoidal,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,antagonist
+iloperidone,Antipsychotic ; Atypical,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+iloperidone,Antipsychotic ; Atypical,5ht1a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+iloperidone,Antipsychotic ; Atypical,5ht6r_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+iloperidone,Antipsychotic ; Atypical,5ht7r_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2009,small molecule,antagonist
+intepirdine,Alzheimer'S Disease,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,recruiting,-,small molecule,antagonist
+iti-007,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,recruiting,-,small molecule,antagonist
+lasmiditan,Anti-Migraine,5ht1f_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,ongoing,-,small molecule,agonist
+lecozotan,Alzheimer'S Disease,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,antagonist
+lisuride,Antiparkinson,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2011,small molecule,agonist
+lorcaserin,Anti-Obesity,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2012,small molecule,agonist
+lu-ae58054,Schizophrenia,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,ongoing,-,small molecule,antagonist
+ly2590443,Anti-Migraine,5ht7r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,antagonist
+mesoridazine,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1970,small molecule,antagonist
+methylergonovine,Hemorrhage,5ht2b_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1946,small molecule,partial agonist
+mg01ci,Neurologic Disorders; Adhd,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,terminated,-,small molecule,antagonist
+min-001,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,agonist
+min-117,Anti-Depressant,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,antagonist
+min-117,Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,antagonist
+minaprine,Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,withdrawn,1984,small molecule,antagonist
+minaprine,Anti-Depressant,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,withdrawn,1984,small molecule,antagonist
+minaprine,Anti-Depressant,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,withdrawn,1984,small molecule,antagonist
+mn-305,Anti-Depressant; Hypnotic,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,agonist
+molindone,Schizophrenia,5ht2a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1974,small molecule,antagonist
+mosapride,Gastrointestinal Reflux Disease (Gerd),5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,recruiting,-,small molecule,agonist
+naronapride,Constipation,5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,agonist
+nelotanserin,Dementia; Parkinson'S Disease,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,recruiting,-,small molecule,inverse agonist
+nemifitide,Anti-Depressant,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,peptide,antagonist
+nxn-188,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,antagonist
+nxn-188,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,antagonist
+opc-14523,Anti-Depressant,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,agonist
+pardoprunox,Antiparkinson,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,agonist
+pardoprunox,Antiparkinson,5ht7r_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,agonist
+pf-05212377,Alzheimer'S Disease,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,terminated,-,small molecule,antagonist
+piclozotan,Stroke,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,agonist
+pimavanserin,Antiparkinson,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2016,small molecule,inverse agonist
+propiomazine,Hypnotics And Sedatives,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1960,small molecule,antagonist
+propiomazine,Hypnotics And Sedatives,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1960,small molecule,antagonist
+prx-00023,Anti-Depressant,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,agonist
+prx-07034,Anti-Obesity ; Nootropic,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,completed,-,small molecule,antagonist
+prx-08066,Antihypertensive,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,antagonist
+prx-3140,Alzheimer'S Disease,5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,agonist
+psn602,Anti-Obesity,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,discontinued,-,small molecule,agonist
+renzapride,Irritable Bowel Syndrome,5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,agonist
+renzapride,Irritable Bowel Syndrome,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,antagonist
+renzapride,Irritable Bowel Syndrome,5ht2a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,antagonist
+renzapride,Irritable Bowel Syndrome,5ht2c_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,antagonist
+rvt-101,Alzheimer'S Disease,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,ongoing,-,small molecule,antagonist
+SEP-363856,Antiparkinson; Schizophrenia; Psychosis,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,agonist
+sertindole,Schizophrenia,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,withdrawn,3,recruiting,1998,small molecule,antagonist
+sertindole,Schizophrenia,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,withdrawn,3,recruiting,1998,small molecule,inverse agonist
+sertindole,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,withdrawn,3,recruiting,1998,small molecule,antagonist
+SL 650472,Intermittent Claudication,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,antagonist
+SL 650472,Intermittent Claudication,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,antagonist
+suvn-502,Alzheimer'S Disease,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,recruiting,-,small molecule,antagonist
+suvn-d4010,Alzheimer'S Disease,5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,recruiting,-,small molecule,agonist
+syn120,Cognitive Disorders,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,antagonist
+syn120,Cognitive Disorders,5ht6r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,antagonist
+td-2749,Motilitant,5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,discontinued,-,unknown,agonist
+tedatioxetine,Anti-Depressant,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,antagonist
+tegaserod,Motilitant,5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2002,small molecule,partial agonist
+temanogrel,Acute Coronary Syndrome,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,unknown,-,small molecule,inverse agonist
+terguride,"Diffuse Cutaneous Systemic Sclerosis, Antihypertensive",5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,ongoing,-,small molecule,antagonist
+terguride,"Diffuse Cutaneous Systemic Sclerosis, Antihypertensive",5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,ongoing,-,small molecule,antagonist
+thiethylperazine,Antiemetics,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1961,small molecule,antagonist
+thiethylperazine,Antiemetics,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1961,small molecule,antagonist
+thioproperazine,Antipsychotic,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1962,small molecule,antagonist
+thioproperazine,Antipsychotic,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1962,small molecule,antagonist
+thiothixene,Psychosis,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1967,small molecule,antagonist
+tonabersat,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,antagonist
+triflupromazine,Antiemetics; Antipsychotic,5ht2b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,1957,small molecule,antagonist
+vabicaserin,Schizophrenia,5ht2c_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,agonist
+vabicaserin,Schizophrenia,5ht2a_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,agonist
+vabicaserin,Schizophrenia,5ht2b_human ,secondary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,discontinued,-,small molecule,agonist
+velusetrag,Motilitant,5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,ongoing,-,small molecule,agonist
+vilazodone,Anti-Depressant,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,approved,4,-,2011,small molecule,agonist
+volinanserin,Hypnotics And Sedatives,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,antagonist
+vr-147,Anti-Migraine,5ht1b_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,discontinued,-,small molecule,not available
+vr-147,Anti-Migraine,5ht1d_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,1,discontinued,-,small molecule,not available
+xaliproden,Neuroprotectant,5ht1a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,3,discontinued,-,small molecule,agonist
+ykp-1358,Schizophrenia,5ht2a_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,unknown,antagonist
+ykp10811,For Chronic Or Functional Constipation,5ht4r_human ,primary,A (Rhodopsin),5-Hydroxytryptamine receptors,in trial,2,completed,-,small molecule,agonist
