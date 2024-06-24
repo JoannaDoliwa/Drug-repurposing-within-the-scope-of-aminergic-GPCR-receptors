@@ -34,19 +34,25 @@ The project requires the following Python libraries:
 - biopython
 - rdkit
 - dockstring
-- os (standard library)
+- matplotlib
 
 ## Project Structure
 - `projekt_zaliczeniowy_mldd.ipynb`: Main Jupyter Notebook containing the entire workflow of the project.
-- `serotoninergic_config/`: 
-- `serotoninergic_pdb/`: 
-- `serotoninergic_pdbqt/`: 
-- `GPCRdb_alignment_aminergic_binding_site.csv`:
-- `serotoninergic_drugs.csv`: 
-- `serotoninergic_ligands_table.csv`: 
+- `serotoninergic_config/`: This directory contains configuration files for docking based on the calculated center and dimensions of the serotoninergic GPCR receptors.
+- `serotoninergic_pdb/`: This directory contains PDB (Protein Data Bank) files of serotoninergic receptors. PDB files provide detailed three-dimensional structures of proteins, which are essential for conducting molecular docking studies to understand how ligands bind to these receptors.
+- `serotoninergic_pdbqt/`: This directory contains PDBQT files, which are modified PDB files including charges and atom types necessary for the docking simulations. These files are used as input for molecular docking software such as AutoDock Vina.
+- `GPCRdb_alignment_aminergic_binding_site.csv`: This file contains alignment data of the aminergic binding sites of G protein-coupled receptors (GPCRs) from the GPCRdb database. The alignment helps in understanding the conserved regions across different GPCRs, which is crucial for comparative modeling and designing ligands targeting these receptors.
+- `serotoninergic_drugs.csv`: This file contains a list of serotoninergic drugs along with relevant information such as their chemical names, molecular formulas, and potentially their therapeutic uses. 
+- `serotoninergic_ligands_table.csv`: This file contains detailed information about various ligands that interact with serotoninergic receptors and most importantly their Smiles structures.
 
 ## Results
-The results of the docking simulations and model predictions will be displayed within the notebook. Outputs include binding affinity scores and auxiliary data from the `dockstring` library.
+Unfortunately, no statistically significant correlation was found between docking and similarity scores for any one of the examined drugs (p-value > 0.05 for all calculations). Example plot for 5HT-1A antagonist and smooth mustle relaxant alverine provided below.
+
+
+
+![docking_scores_vs_similarity_5ht1a_row_alverine](https://github.com/JoannaDoliwa/Drug-repurposing-within-the-scope-of-aminergic-GPCR-receptors/assets/125126159/ed77200a-f02b-40bc-b2e4-6bc38e160e2e)
+
+
 
 ## License
 This project is licensed under the MIT License. 
